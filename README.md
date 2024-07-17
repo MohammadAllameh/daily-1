@@ -1,1 +1,1 @@
-"# daily-1" 
+"# daily-1 : CheckBox" 
